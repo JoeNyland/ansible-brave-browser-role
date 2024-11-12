@@ -9,5 +9,8 @@ galaxy_info:
   - name: Debian
     versions:
       - bookworm # 12 (stable)
+  - name: Ubuntu
+    versions:
+      - noble # 24.04 (LTS)
   galaxy_tags: []
 dependencies: []
